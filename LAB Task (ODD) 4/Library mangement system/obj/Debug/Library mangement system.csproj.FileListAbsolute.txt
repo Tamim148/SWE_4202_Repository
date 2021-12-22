@@ -1,0 +1,11 @@
+C:\Users\Tamim\source\repos\LAB Task (ODD) 4\Library mangement system\bin\Debug\Library mangement system.exe.config
+C:\Users\Tamim\source\repos\LAB Task (ODD) 4\Library mangement system\bin\Debug\Library mangement system.exe
+C:\Users\Tamim\source\repos\LAB Task (ODD) 4\Library mangement system\bin\Debug\Library mangement system.pdb
+C:\Users\Tamim\source\repos\LAB Task (ODD) 4\Library mangement system\obj\Debug\Library mangement system.csproj.AssemblyReference.cache
+C:\Users\Tamim\source\repos\LAB Task (ODD) 4\Library mangement system\obj\Debug\Library mangement system.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tamim\source\repos\LAB Task (ODD) 4\Library mangement system\obj\Debug\Library_mangement_system.Form1.resources
+C:\Users\Tamim\source\repos\LAB Task (ODD) 4\Library mangement system\obj\Debug\Library_mangement_system.Properties.Resources.resources
+C:\Users\Tamim\source\repos\LAB Task (ODD) 4\Library mangement system\obj\Debug\Library mangement system.csproj.GenerateResource.cache
+C:\Users\Tamim\source\repos\LAB Task (ODD) 4\Library mangement system\obj\Debug\Library mangement system.csproj.CoreCompileInputs.cache
+C:\Users\Tamim\source\repos\LAB Task (ODD) 4\Library mangement system\obj\Debug\Library mangement system.exe
+C:\Users\Tamim\source\repos\LAB Task (ODD) 4\Library mangement system\obj\Debug\Library mangement system.pdb
