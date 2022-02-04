@@ -12,7 +12,7 @@ namespace banking_system
         public string id;
         public double amount;
 
-        public void setAccount( string id)
+        public void setAccount( string name,string id,string amount)
         {
             this.name = name;
             this.id = id;
