@@ -1,0 +1,30 @@
+E:\Visual Studio Lab\Lab09\obj\Debug\net6.0\Lab09.csproj.AssemblyReference.cache
+E:\Visual Studio Lab\Lab09\obj\Debug\net6.0\Lab09.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Lab\Lab09\obj\Debug\net6.0\Lab09.AssemblyInfoInputs.cache
+E:\Visual Studio Lab\Lab09\obj\Debug\net6.0\Lab09.AssemblyInfo.cs
+E:\Visual Studio Lab\Lab09\obj\Debug\net6.0\Lab09.csproj.CoreCompileInputs.cache
+E:\Visual Studio Lab\Lab09\bin\Debug\net6.0\Lab09.exe
+E:\Visual Studio Lab\Lab09\bin\Debug\net6.0\Lab09.deps.json
+E:\Visual Studio Lab\Lab09\bin\Debug\net6.0\Lab09.runtimeconfig.json
+E:\Visual Studio Lab\Lab09\bin\Debug\net6.0\Lab09.dll
+E:\Visual Studio Lab\Lab09\bin\Debug\net6.0\ref\Lab09.dll
+E:\Visual Studio Lab\Lab09\bin\Debug\net6.0\Lab09.pdb
+E:\Visual Studio Lab\Lab09\obj\Debug\net6.0\Lab09.dll
+E:\Visual Studio Lab\Lab09\obj\Debug\net6.0\ref\Lab09.dll
+E:\Visual Studio Lab\Lab09\obj\Debug\net6.0\Lab09.pdb
+E:\Visual Studio Lab\Lab09\obj\Debug\net6.0\Lab09.genruntimeconfig.cache
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\bin\Debug\net6.0\Lab09.exe
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\bin\Debug\net6.0\Lab09.deps.json
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\bin\Debug\net6.0\Lab09.runtimeconfig.json
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\bin\Debug\net6.0\Lab09.dll
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\bin\Debug\net6.0\ref\Lab09.dll
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\bin\Debug\net6.0\Lab09.pdb
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\obj\Debug\net6.0\Lab09.csproj.AssemblyReference.cache
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\obj\Debug\net6.0\Lab09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\obj\Debug\net6.0\Lab09.AssemblyInfoInputs.cache
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\obj\Debug\net6.0\Lab09.AssemblyInfo.cs
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\obj\Debug\net6.0\Lab09.csproj.CoreCompileInputs.cache
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\obj\Debug\net6.0\Lab09.dll
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\obj\Debug\net6.0\ref\Lab09.dll
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\obj\Debug\net6.0\Lab09.pdb
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task1\obj\Debug\net6.0\Lab09.genruntimeconfig.cache

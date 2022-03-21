@@ -1,0 +1,30 @@
+E:\Visual Studio Lab\Lab09_Task2\bin\Debug\net6.0\Lab09_Task2.exe
+E:\Visual Studio Lab\Lab09_Task2\bin\Debug\net6.0\Lab09_Task2.deps.json
+E:\Visual Studio Lab\Lab09_Task2\bin\Debug\net6.0\Lab09_Task2.runtimeconfig.json
+E:\Visual Studio Lab\Lab09_Task2\bin\Debug\net6.0\Lab09_Task2.dll
+E:\Visual Studio Lab\Lab09_Task2\bin\Debug\net6.0\ref\Lab09_Task2.dll
+E:\Visual Studio Lab\Lab09_Task2\bin\Debug\net6.0\Lab09_Task2.pdb
+E:\Visual Studio Lab\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.csproj.AssemblyReference.cache
+E:\Visual Studio Lab\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Lab\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.AssemblyInfoInputs.cache
+E:\Visual Studio Lab\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.AssemblyInfo.cs
+E:\Visual Studio Lab\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.csproj.CoreCompileInputs.cache
+E:\Visual Studio Lab\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.dll
+E:\Visual Studio Lab\Lab09_Task2\obj\Debug\net6.0\ref\Lab09_Task2.dll
+E:\Visual Studio Lab\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.pdb
+E:\Visual Studio Lab\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.genruntimeconfig.cache
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\bin\Debug\net6.0\Lab09_Task2.exe
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\bin\Debug\net6.0\Lab09_Task2.deps.json
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\bin\Debug\net6.0\Lab09_Task2.runtimeconfig.json
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\bin\Debug\net6.0\Lab09_Task2.dll
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\bin\Debug\net6.0\ref\Lab09_Task2.dll
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\bin\Debug\net6.0\Lab09_Task2.pdb
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.csproj.AssemblyReference.cache
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.AssemblyInfoInputs.cache
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.AssemblyInfo.cs
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.dll
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\obj\Debug\net6.0\ref\Lab09_Task2.dll
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.pdb
+C:\Users\Tamim\Desktop\Lab09\Lab09_Task2\obj\Debug\net6.0\Lab09_Task2.genruntimeconfig.cache

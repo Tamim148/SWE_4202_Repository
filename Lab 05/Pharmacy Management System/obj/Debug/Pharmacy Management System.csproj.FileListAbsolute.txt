@@ -1,0 +1,22 @@
+E:\Visual Studio Lab\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+E:\Visual Studio Lab\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+E:\Visual Studio Lab\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+E:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+E:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+E:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+E:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+E:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+E:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+E:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+H:\Visual Studio Lab\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+H:\Visual Studio Lab\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+H:\Visual Studio Lab\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+H:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+H:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+H:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+H:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+H:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+H:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+H:\Visual Studio Lab\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
