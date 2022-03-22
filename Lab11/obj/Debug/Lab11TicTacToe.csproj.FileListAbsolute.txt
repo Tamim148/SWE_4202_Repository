@@ -1,0 +1,22 @@
+H:\Visual Studio Lab\Lab11TicTacToe\bin\Debug\Lab11TicTacToe.exe.config
+H:\Visual Studio Lab\Lab11TicTacToe\bin\Debug\Lab11TicTacToe.exe
+H:\Visual Studio Lab\Lab11TicTacToe\bin\Debug\Lab11TicTacToe.pdb
+H:\Visual Studio Lab\Lab11TicTacToe\obj\Debug\Lab11TicTacToe.csproj.AssemblyReference.cache
+H:\Visual Studio Lab\Lab11TicTacToe\obj\Debug\Lab11TicTacToe.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio Lab\Lab11TicTacToe\obj\Debug\Lab11TicTacToe.Form1.resources
+H:\Visual Studio Lab\Lab11TicTacToe\obj\Debug\Lab11TicTacToe.Properties.Resources.resources
+H:\Visual Studio Lab\Lab11TicTacToe\obj\Debug\Lab11TicTacToe.csproj.GenerateResource.cache
+H:\Visual Studio Lab\Lab11TicTacToe\obj\Debug\Lab11TicTacToe.csproj.CoreCompileInputs.cache
+H:\Visual Studio Lab\Lab11TicTacToe\obj\Debug\Lab11TicTacToe.exe
+H:\Visual Studio Lab\Lab11TicTacToe\obj\Debug\Lab11TicTacToe.pdb
+H:\Visual Studio Lab\Lab11TicTacToe With All Requirements Completed\bin\Debug\Lab11TicTacToe.exe.config
+H:\Visual Studio Lab\Lab11TicTacToe With All Requirements Completed\bin\Debug\Lab11TicTacToe.exe
+H:\Visual Studio Lab\Lab11TicTacToe With All Requirements Completed\bin\Debug\Lab11TicTacToe.pdb
+H:\Visual Studio Lab\Lab11TicTacToe With All Requirements Completed\obj\Debug\Lab11TicTacToe.csproj.AssemblyReference.cache
+H:\Visual Studio Lab\Lab11TicTacToe With All Requirements Completed\obj\Debug\Lab11TicTacToe.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio Lab\Lab11TicTacToe With All Requirements Completed\obj\Debug\Lab11TicTacToe.Form1.resources
+H:\Visual Studio Lab\Lab11TicTacToe With All Requirements Completed\obj\Debug\Lab11TicTacToe.Properties.Resources.resources
+H:\Visual Studio Lab\Lab11TicTacToe With All Requirements Completed\obj\Debug\Lab11TicTacToe.csproj.GenerateResource.cache
+H:\Visual Studio Lab\Lab11TicTacToe With All Requirements Completed\obj\Debug\Lab11TicTacToe.csproj.CoreCompileInputs.cache
+H:\Visual Studio Lab\Lab11TicTacToe With All Requirements Completed\obj\Debug\Lab11TicTacToe.exe
+H:\Visual Studio Lab\Lab11TicTacToe With All Requirements Completed\obj\Debug\Lab11TicTacToe.pdb
